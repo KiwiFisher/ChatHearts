@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="ChatHearts:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ChatHearts_jar</output-path>
+    <root id="root">
+      <element id="archive" name="ChatHearts.jar">
+        <element id="module-output" name="ChatHearts" />
+      </element>
+      <element id="library" level="application" name="spigot-1.8.7" />
+    </root>
+  </artifact>
+</component>
